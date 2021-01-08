@@ -1,0 +1,9 @@
+﻿"firstName","lastName","otherName","mda","gender","gradeLevel","email","mobileNumber","state","remark","passed","score"
+"opeyemi","lanre","lanre","Abubakar Tafawa Balewa University Teaching Hospital, Bauchi","Male","Level 3","ridzeeconzy@gmail.com","090847324434","Bayelsa","passed",1,80
+"elijah","null","null","Abubakar Tafawa Balewa University, Bauchi","null","null","ebobzom@gmail.com","09084563782","null","passed",1,90
+"Test","Tester","Tester","Abubakar Tafawa Balewa University Teaching Hospital, Bauchi","Male","Level 5","kenjoe@gmail.com","08054678934","Benue","passed",1,90
+"peace","toyyib","toyyib","Abuja Securities and Commodities Exchange","Male","Level 3","pptest@test.com","08054678329","Bayelsa","passed",1,82
+"Dwayne","Johnson","Johnson","Nigerian Communications Commission (NCC)","null","null","dwayne@gmail.com","08045213421","null","passed",1,82
+"Buhari","Muhammadu","Muhammadu","Federal Capital Territory Administration","null","null","djchame@gmail.com","08034234567","null","failed",0,27
+"ade","john","john","Abubakar Tafawa Balewa University, Bauchi","null","null","john@gmail.com","09084356789","null","failed",0,0
+"bright","ikhide","ikhide","Abubakar Tafawa Balewa University Teaching Hospital, Bauchi","null","null","ikhidebright@gmail.com","09042232145","null","failed",0,9
